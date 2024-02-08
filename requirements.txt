@@ -5,5 +5,5 @@ langchain-openai==0.0.5
 pgvector==0.2.4
 psycopg2-binary==2.9.9
 pypdf==4.0.1
-python-dotenv==1.0.0
+python-dotenv==1.0.1
 tiktoken==0.5.2
