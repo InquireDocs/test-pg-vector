@@ -1,5 +1,5 @@
 beautifulsoup4==4.12.3
-langchain==0.1.14
+langchain==0.1.15
 pgvector==0.2.5
 psycopg2-binary==2.9.9
 pypdf==4.1.0
